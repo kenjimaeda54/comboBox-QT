@@ -51,6 +51,10 @@ void ComboBox::on_btn_response_clicked()
 
 ```
 
+## ScreenShoot
+
+![comoBOxSelect.jpeg](https://github.com/kenjimaeda54/comboBox-QT/blob/develop/comoBoxSelect.jpeg)
+![comoboOption.jpeg](https://github.com/kenjimaeda54/comboBox-QT/blob/develop/comoboOption.jpeg)
 
 
 
