@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>assets/so/freebsd.png</file>
+        <file>assets/so/linux.png</file>
+        <file>assets/so/macos.png</file>
+        <file>assets/so/windows.png</file>
+    </qresource>
+</RCC>
